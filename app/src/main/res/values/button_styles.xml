@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="NonInsetButton" parent="ThemeOverlay.Material3.Button.TextButton">
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetLeft">0dp</item>
+        <item name="android:insetRight">0dp</item>
+    </style>
+
+    <style name="PrimaryButton" parent="NonInsetButton">
+        <item name="backgroundTint">@color/background_bgAccent</item>
+        <item name="android:textAppearance">@style/LabelLgMedium</item>
+    </style>
+
+</resources>

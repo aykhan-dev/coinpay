@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">coinpay</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="action_next">Next</string>
+    <string name="action_send_money">Send money</string>
+    <string name="action_receive_money">Receive money</string>
+
+    <string name="msg_onboarding_first">Trusted by millions of people, part of one part</string>
+    <string name="msg_onboarding_second">Spend money abroad, and track your expense</string>
+    <string name="msg_onboarding_third">Receive Money From Anywhere In The World</string>
+
+</resources>
